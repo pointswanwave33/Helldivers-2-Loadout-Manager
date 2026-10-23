@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Helldivers-2-Loadout-Manager` · Updated: 2026-10-07
+`Helldivers-2-Loadout-Manager` · Updated: 2026-10-24
 
 **Tags:** `helldivers-2` `loadout` `co-op` `shooter` `steam`
